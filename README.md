@@ -1,4 +1,5 @@
-# DIO | Projeto: Jogo Detona Ralph.
+# DIO | Projeto: Jogo Detona Ralph. 
+<img src="https://67.media.tumblr.com/a492f29aa157e0e1aa07e95a4070b45c/tumblr_n52ljs0yrY1rnb3h0o1_500.gif" alt="detona ralph">
 
 
 Repositório do jogo recriando o passo a passo juntamente com o professor.
