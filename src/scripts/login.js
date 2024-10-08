@@ -15,7 +15,7 @@ const handleSubmit = (event) => {
   event.preventDefault();
 
   localStorage.setItem('jogar', input.value);
-  window.location = '../index.html';
+  window.location = '../login.html';
 }
 
 input.addEventListener('input', validateInput);
